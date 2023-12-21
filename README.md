@@ -1,4 +1,4 @@
-# RANK-OF-A-MATRIX
+# EX-02: RANK-OF-A-MATRIX
 
 ## Aim:
 To write a python program to find the rank of a matrix
@@ -30,7 +30,8 @@ print(sol)
 ```
 ## Output:
 
-![Alt text](<Screenshot 2023-11-23 110339.png>)
+![image](https://github.com/KeerthanaaSaravanan/EX-02_MATH/assets/145742596/74b20793-aa22-4c0f-9d63-d9eb9a4694d7)
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
